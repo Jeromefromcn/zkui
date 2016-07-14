@@ -1,3 +1,3 @@
 FROM java:8-jre-alpine
 MAINTAINER Jerome Jiang
-COPY zkui/ /
+COPY zkui/ /zkui/
